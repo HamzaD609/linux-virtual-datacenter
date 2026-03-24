@@ -1,0 +1,7 @@
+<network>
+  <name>subnet-b</name>
+  <bridge name="virbr20" stp="on" delay="0"/>
+  <domain name="subnet-b.local"/>
+  <ip address="10.0.20.254" netmask="255.255.255.0">
+  </ip>
+</network>
