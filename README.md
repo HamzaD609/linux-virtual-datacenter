@@ -272,7 +272,7 @@ Type any message and press Enter. The message appears on the server terminal, co
 
 Live TCP traffic was captured on virbr10 using Wireshark while Netcat transmitted data from client-vm to server-vm through the router.
 
-![Wireshark Capture](screenshots/wireshark-capture.png)
+![Wireshark Capture](screenshots/Wireshark-capture.png)
 
 ### Capture command
 ```bash
