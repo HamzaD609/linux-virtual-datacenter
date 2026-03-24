@@ -12,10 +12,7 @@ Engineering a software-defined network with KVM/libvirt, a custom Linux kernel r
 
 ## Network Architecture
 
-<p align="center">
-  <img src="diagrams/network-topology.svg" 
-       style="background-color:white; padding:16px; border-radius:8px"/>
-</p>
+![Lab Architecture](diagrams/lab-architecture.png)
 
 | Machine   | Interface | IP Address        | Subnet   |
 |-----------|-----------|-------------------|----------|
