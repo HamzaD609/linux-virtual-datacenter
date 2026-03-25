@@ -336,4 +336,4 @@ sudo cp your.iso /var/lib/libvirt/iso/
 
 ## Context
 
-This lab was built as hands-on preparation for the CCNA and LFCS certifications, translating theoretical knowledge of network routing, Linux kernel networking, and packet analysis into a fully operational virtual datacenter built entirely from the command line on CachyOS Linux.
+This lab was built as hands-on preparation, translating theoretical knowledge of network routing, Linux kernel networking, and packet analysis into a fully operational virtual datacenter built entirely from the command line on CachyOS Linux.
